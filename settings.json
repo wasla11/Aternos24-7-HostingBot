@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "helloMCX.aternos.me:27365",
+    "port": 27365,
     "version": "",
     "try-creative": false
   },
